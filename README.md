@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![Pytorch](https://img.shields.io/badge/pytorch-2.1.2-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 This repository contains the implementation of **FibroHybridNet**, a hybrid deep learning framework for classifying fibroglandular tissue (FGT) in breast MRI into BI-RADS categories.  
 FibroHybridNet integrates **2D CNNs, a Vision Transformer, and a 3D CNN** to capture both local and volumetric features, providing improved classification accuracy compared to individual models.
